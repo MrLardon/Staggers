@@ -13,7 +13,7 @@ public class ExempleMaven {
 		
 		/*Avion av = new Avion(0, "Airbus 44", "Paris", 428);
 		AvionDAO.getInstance().create(av);
-		
+		/*Ceci est un test de commit
 		System.out.println(Connexion.getMaxId("num_av", "avion"));*/
 		System.out.println(AvionDAO.getInstance().read(2));
 		System.out.println(PiloteDAO.getInstance().read(2));
