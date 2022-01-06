@@ -12,7 +12,7 @@ public class Connexion {
 	private static Connection connect = null;
 	private static final String NOMBD= "dbstage";
 	private static final String SQL_SERVER = "localhost\\SQLEXPRESS01";
-	private static final String ID = "CLEMENT";
+	private static final String ID = "sacha";
 	private static final String MDP = "sio";
 	
 	
