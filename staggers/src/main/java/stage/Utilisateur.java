@@ -1,4 +1,4 @@
-package dbstage;
+package stage;
 
 public class Utilisateur {
 	

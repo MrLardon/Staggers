@@ -1,6 +1,6 @@
 package dao;
 
-import dbstage.Utilisateur;
+import stage.Utilisateur;
 
 public class UtilisateurDAO extends DAO<Utilisateur> {
 	

@@ -1,8 +1,8 @@
-package dbstage;
+package stage;
 
 import java.awt.Image;
 
-public class entreprise {
+public class Entreprise {
 	private int id_entreprise;
 	private Image logo;
 	private String nom;
@@ -177,7 +177,7 @@ public class entreprise {
 
 
 
-	public entreprise(int id_entreprise, Image logo, String nom, String personne_contact, String email, String numtel,
+	public Entreprise(int id_entreprise, Image logo, String nom, String personne_contact, String email, String numtel,
 			String fax, int nbsalarie, int nbstagmax) {
 		super();
 		this.id_entreprise = id_entreprise;
