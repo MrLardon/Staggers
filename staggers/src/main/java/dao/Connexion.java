@@ -14,8 +14,8 @@ public class Connexion {
 	private static final String SQL_SERVER = "localhost\\SQLEXPRESS01";
 	private static final String ID = "sacha";
 	private static final String MDP = "sio";
-	test
-	dfgfgdfgdfgdg
+	
+	Test Commit Valérie 
 	public static Connection getInstance() {
 		if (connect==null) {
 			try { 
