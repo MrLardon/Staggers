@@ -10,7 +10,7 @@ import jeuvie.ocean.vague.LigneEauProfonde;
 public class HauteMer extends Ocean {
 
 
-	//Test commit pc 22
+	//Test commit pc 222
 
 	protected HauteMer(List<ILigneEau> grille) {
 		super(grille);
